@@ -32,7 +32,7 @@ pip install PyPDF2
 ### 1️ Injecter du JavaScript dans le PDF
 Exécutez le script suivant pour ajouter un script JavaScript qui affiche une alerte à l'ouverture du fichier :
 ```bash
-python inject_js.py
+python ScriptPDF.py
 ```
 Cela générera un fichier `test.pdf`.
 
