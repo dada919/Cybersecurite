@@ -62,3 +62,6 @@ Cela générera un fichier `test.pdf`.
 
 - Adobe Acrobat PRO DC Version 2022.001.20085:
 ![Adobe Acrobat PRO DC](screen/acrobat.PNG)
+
+### 4 Diagramme de sequence:
+![Diagramme de sequence](screen/sequence.PNG)
